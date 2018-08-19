@@ -1,0 +1,2 @@
+- Run `yarn install` from the root folder
+- Done!
